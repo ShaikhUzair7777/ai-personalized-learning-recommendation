@@ -85,3 +85,21 @@ frontend-app/src/index_final_layout_v2.css
 
 # Temporary experiment output
 temp_step*.txt
+
+# Runtime ML data required by FastAPI
+!data/
+!data/processed/
+!data/processed/courses_ready.csv
+!data/processed/learner_features_ready.csv
+
+# Runtime ML data required by FastAPI
+!data/
+!data/processed/
+!data/processed/courses_ready.csv
+!data/processed/learner_features_ready.csv
+
+# Runtime ML data required by FastAPI
+!data/
+!data/processed/
+!data/processed/courses_ready.csv
+!data/processed/learner_features_ready.csv
