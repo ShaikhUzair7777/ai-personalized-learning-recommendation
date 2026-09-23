@@ -16,16 +16,29 @@
 
 ## Screenshots
 
-> _Add screenshots here:_
-![alt text](image.png)
-> - Landing page hero (`Learn smarter. Grow faster.`)
-![alt text](image-1.png)
-> - "How it works" 3-step section
-![alt text](image-4.png)
-> - Personalized dashboard (`Your learning path, intelligently built.`)
-![alt text](image-2.png)
-> - Recommendation cards with AI Match %, Skills/Content/Difficulty-Fit breakdown
-![alt text](image-3.png)
+### System Architecture
+
+![LearnAI System Architecture](assets/architecture.png)
+
+### Login Page
+
+![LearnAI Login Page](assets/login-page.png)
+
+### How It Works
+
+![LearnAI Workflow](assets/workflow.png)
+
+### Learning Profile
+
+![LearnAI Created Profile](assets/created-profile.png)
+
+### Personalized Dashboard
+
+![LearnAI Dashboard](assets/dashboard.png)
+
+### Course Recommendations
+
+![LearnAI Course Recommendations](assets/course-recommendation.png)
 
 ---
 
