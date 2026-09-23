@@ -17,11 +17,15 @@
 ## Screenshots
 
 > _Add screenshots here:_
+![alt text](image.png)
 > - Landing page hero (`Learn smarter. Grow faster.`)
-
+![alt text](image-1.png)
 > - "How it works" 3-step section
+![alt text](image-4.png)
 > - Personalized dashboard (`Your learning path, intelligently built.`)
+![alt text](image-2.png)
 > - Recommendation cards with AI Match %, Skills/Content/Difficulty-Fit breakdown
+![alt text](image-3.png)
 
 ---
 
